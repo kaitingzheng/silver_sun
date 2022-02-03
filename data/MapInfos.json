@@ -36,7 +36,7 @@ null,
 {"id":34,"expanded":false,"name":"Flashback 3","order":35,"parentId":30,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":35,"expanded":false,"name":"Dark Wings Hideout (Backyard/Destroyed)","order":31,"parentId":27,"scrollX":832,"scrollY":640},
 {"id":36,"expanded":true,"name":"Honor Road","order":36,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":37,"expanded":true,"name":"MUSEUM Entry Hall","order":37,"parentId":36,"scrollX":832,"scrollY":640},
+{"id":37,"expanded":true,"name":"MUSEUM Entry Hall","order":37,"parentId":36,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":38,"expanded":false,"name":"Library","order":38,"parentId":37,"scrollX":982.8,"scrollY":553.1999999999999},
 {"id":39,"expanded":true,"name":"MUSEUM Central Hall","order":39,"parentId":37,"scrollX":982.8,"scrollY":553.1999999999999}
 ]
